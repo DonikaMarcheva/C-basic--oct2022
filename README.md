@@ -1,4 +1,4 @@
-# C# basics course in Sofware University. All of the tasks result in a 100% mark in Judge.
+# This repository contains exercises given in C# basics course in Sofware University. All of the tasks result in a 100% mark in Judge. 
 # 1.First Steps In Coding.
 # 2.Conditional Statements.
 # 3.Conditional Statements Advanced.
